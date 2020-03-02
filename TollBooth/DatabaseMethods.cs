@@ -25,7 +25,7 @@ namespace TollBooth
             _log = log;
         }
 
-        /// <summary>
+        /// <summary> ///
         /// Retrieves all license plate records (documents) that have not yet been exported.
         /// </summary>
         /// <returns></returns>
